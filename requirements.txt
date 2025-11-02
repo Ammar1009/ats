@@ -6,5 +6,4 @@ pdfplumber
 streamlit
 spacy
 nltk
-ro
-fitz
+PyMuPDF==1.26.5

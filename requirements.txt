@@ -6,3 +6,5 @@ pdfplumber
 streamlit
 spacy
 nltk
+ro
+fitz
